@@ -95,7 +95,7 @@
 				<configuration>
 					<suiteXmlFiles>
 						<!--TestNG suite XML files -->
-						<suiteXmlFile>testng_smoke.xml</suiteXmlFile>
+						<suiteXmlFile>testng_smoke_suite.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
